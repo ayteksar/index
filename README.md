@@ -1,2 +1,7 @@
 # index
-Vue.js ile title ve description ile ilgili program 
+Merhaba,
+
+Ben Ahmet Yasir,
+
+Burada vue.js ve html yardımı ile bir başlık oluşturacağız ve başlığın altındaki kutucukta girdiğimiz stringleri alt kısmında yazdırma kodlarını göreceğiz.
+
